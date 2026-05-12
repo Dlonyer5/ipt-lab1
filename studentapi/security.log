@@ -1,0 +1,38 @@
+Not Found: /api/token/
+"GET /api/token/ HTTP/1.1" 404 2209
+Method Not Allowed: /api/token/
+"GET /api/token/ HTTP/1.1" 405 7609
+Unauthorized: /api/token/
+"POST /api/token/ HTTP/1.1" 401 7549
+Unauthorized: /api/token/
+"POST /api/token/ HTTP/1.1" 401 7549
+Unauthorized: /api/token/
+"POST /api/token/ HTTP/1.1" 401 7549
+Unauthorized: /api/token/
+"POST /api/token/ HTTP/1.1" 401 7549
+Unauthorized: /api/token/
+"POST /api/token/ HTTP/1.1" 401 7549
+Unauthorized: /api/token/
+"POST /api/token/ HTTP/1.1" 401 7549
+Method Not Allowed: /api/token/
+"GET /api/token/ HTTP/1.1" 405 7609
+Not Found: /api/student-records/
+"GET /api/student-records/ HTTP/1.1" 404 2601
+Method Not Allowed: /api/token/
+"GET /api/token/ HTTP/1.1" 405 7706
+Method Not Allowed: /api/token/
+"GET /api/token/ HTTP/1.1" 405 7706
+Method Not Allowed: /api/token/
+"GET /api/token/ HTTP/1.1" 405 7706
+Method Not Allowed: /api/token/
+"GET /api/token/ HTTP/1.1" 405 7706
+Bad Request: /api/token/
+"POST /api/token/ HTTP/1.1" 400 79
+Bad Request: /api/token/
+"POST /api/token/ HTTP/1.1" 400 79
+Bad Request: /api/token/
+"POST /api/token/ HTTP/1.1" 400 7967
+Bad Request: /api/token/
+"POST /api/token/ HTTP/1.1" 400 79
+Bad Request: /api/token/
+"POST /api/token/ HTTP/1.1" 400 79
